@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\garg-marble-server.props" />
+</Project>

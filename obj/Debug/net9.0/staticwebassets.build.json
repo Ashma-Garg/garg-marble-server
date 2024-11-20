@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "f/rHL2O+8XUR/36wWYY8wJCB/gNoNPzpJCYHGBhKJvU=",
+  "Source": "garg-marble-server",
+  "BasePath": "_content/garg-marble-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
